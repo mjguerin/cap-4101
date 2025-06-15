@@ -1,2 +1,11 @@
-timestamp,task_name,success,duration_seconds,notes
-2025-05-25 08:47:02,Task 1: Example Task,No,1.7664799690246582,TEST
+task_name,start_time,end_time,duration_sec,task_success,difficulty_rating,user_comments,timestamp
+
+Record a Transaction,2025-06-14 18:06:39.065236,2025-06-14 18:07:26.449490,47.38,Yes,2,,2025-06-14 18:07:47.187415
+View Live Market Updates,2025-06-14 18:07:53.964775,2025-06-14 18:08:29.507761,35.54,Yes,1,"If a stock is not found, an information box should appear",2025-06-14 18:08:55.740338
+Find Today's News,2025-06-14 18:09:01.844167,2025-06-14 18:10:06.682724,64.84,Yes,1,,2025-06-14 18:10:12.394298
+Record a Transaction,2025-06-15 11:54:19.823577,2025-06-15 11:55:02.552283,42.73,Yes,2,,2025-06-15 11:55:35.673636
+View Live Market Updates,2025-06-15 11:55:39.543764,2025-06-15 11:56:00.302983,20.76,Yes,1,,2025-06-15 11:56:06.977686
+Find Today's News,2025-06-15 11:56:09.526556,2025-06-15 11:56:30.699031,21.17,Yes,1,,2025-06-15 11:56:33.742690
+Record a Transaction,2025-06-15 11:59:51.111676,2025-06-15 12:00:43.494933,52.38,Yes,2,,2025-06-15 12:00:59.858486
+View Live Market Updates,2025-06-15 12:01:04.242534,2025-06-15 12:01:46.093316,41.85,Yes,2,I entered a ticker that was not listed and got an empty page,2025-06-15 12:02:34.475302
+Find Today's News,2025-06-15 12:02:37.977418,2025-06-15 12:02:58.062935,20.09,Yes,1,No issues,2025-06-15 12:03:11.848978
